@@ -133,6 +133,7 @@ span.button1:hover {
 }
 
 footer {
+  clear: both;
   margin: 0 auto;
   padding: 20px;
   text-align: center;
