@@ -71,9 +71,9 @@ header {
   margin-top: 50px;
 }
 
-.section-head {
-  width: 1027px;
+.section_header {
   margin: 0 auto;
+  background-color: #FFE2B8;
 }
 
 .article-intro {
