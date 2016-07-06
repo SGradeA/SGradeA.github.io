@@ -144,7 +144,7 @@ li.contactlist {
 
 @media only screen and (max-width: 900px) {
 
-	
+
 	.content {
 		width: 100%;
 		margin: 0px auto;
@@ -170,6 +170,13 @@ li.contactlist {
 	}
 
 
+	ul.contact {
+		list-style: none;
+		display: block;
+		color: #fff;
+		margin-left: 1em;
+	}
+
 
 }
 
@@ -190,7 +197,7 @@ nav {
 		font-size: 1em;
 		text-decoration: none;
 		line-height: 1em;
-		padding: 0 2em 0 1em;
+		padding: 0 1em 0 1em;
 	}
 
 
