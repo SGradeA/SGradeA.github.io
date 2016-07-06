@@ -144,13 +144,23 @@ li.contactlist {
 
 @media only screen and (max-width: 768px) {
 
+
+	a.nav {
+		color: #fff;
+		font-size: 1em;
+		text-decoration: none;
+		line-height: 1em;
+		padding: 0 2em 0 1em;
+	}
+
+
 	#hero {
 		width: 96%;
 	}
 
 
 	h1 {
-		font-size: 3em;
+		font-size: 2em;
 		font-family: 'Fjalla One', sans-serif;
 	}
 
