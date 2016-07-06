@@ -139,7 +139,7 @@ ul.contact {
 
 li.contactlist {
 	float: left;
-	margin: .1em 3em 0 0;
+	margin: .1em 2.5em 0 0;
 }
 
 @media only screen and (max-width: 768px) {
